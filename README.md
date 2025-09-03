@@ -51,7 +51,6 @@ Deliverables
 ------------
 - Solutions explained in Word/PDF and presentation format.
 - Code, dataset, plots, and README provided for Task 7.
-- PowerPoint presentation for class presentation.
 
 Conclusion
 ----------
