@@ -1,9 +1,8 @@
 CS5710 Machine Learning – Homework 1
 ====================================
 
-Student   : Ajay Muppa
-Student ID: 700769264
-Course    : CS5710 Machine Learning, Fall 2025
+*Student Name:* AJAY MUPPA  
+*Student ID:* 700769264
 
 Overview
 --------
